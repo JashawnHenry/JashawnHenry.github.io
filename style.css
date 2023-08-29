@@ -1,8 +1,8 @@
 body {
-    background:white;
+    background:lavenderblush;
     color: rgb(45, 45, 45);
     padding: 10px;
-    font-family: arial;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #all-contents {
   max-width: 800px;
@@ -41,6 +41,9 @@ a {
 main {
     background:whitesmoke;
     display: flex;
+    border:groove;
+    border-color:plum;
+    border-width:7px;
 }
 .sidebar {
     margin-right: 25px;
